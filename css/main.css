@@ -10,9 +10,6 @@ nav ul, footer ul {
     font-weight: bold;
     border-left: 7px solid #171717;
     background-color: #373737;
-    height: 100px;
-    width: 500px;
-    background-color: #171717;
 }
 nav ul li, footer ul li {
     display: inline;
