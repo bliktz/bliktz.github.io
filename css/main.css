@@ -8,8 +8,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    border-left: 37px solid #171717;
-    background-color: #373737;
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 nav ul li, footer ul li {
     display: inline;
