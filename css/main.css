@@ -10,10 +10,10 @@ nav ul, footer ul {
     padding: 0;
     overflow: hidden;
     background-color: #171717;
-    color: #fffef7
 }
 nav ul li, footer ul li {
     float: left;
+    color: #fffef7;
 }
 a {
     display: block;
